@@ -1,4 +1,5 @@
 def mario
+  phrase = 
   puts phrase'#{mario}
 end
 
@@ -8,4 +9,6 @@ def toadstool
 end
 
 def link
-puts "It's Dangerous To Go Alone! Take This"
+puts "It's Dangerous To Go Alone! Take This."
+end
+
